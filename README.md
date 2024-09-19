@@ -46,7 +46,7 @@
 
 ### 📈 GitHub Stats
 
-![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&hide_border=true&theme=radical)
+![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=DannyCholakov&show_icons=true&hide_border=true&theme=radical)
 
 ---
 
