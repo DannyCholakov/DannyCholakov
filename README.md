@@ -45,8 +45,11 @@
 ---
 
 ### 📈 GitHub Stats
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=DannyCholakov&theme=tokyonight" alt="mystreak"/>
+
 ---
+
 ### 📫 Let's Connect
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/daniel-cholakov-06b70b261/)
