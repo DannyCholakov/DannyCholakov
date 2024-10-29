@@ -7,7 +7,6 @@
 👨‍💻 **Full Stack Python Developer in Training at SoftUni, Sofia**  
 🎨 **Certified UI/UX Designer**  
 🌍 **Currently based in Dietwil, Switzerland**  
-🇧🇬 **Also residing in Plovdiv, Bulgaria**
 
 ---
 
