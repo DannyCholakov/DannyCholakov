@@ -4,8 +4,8 @@
 ## Hi there, I'm Daniel Cholakov 👋
 
 🎓 **Software Technologies and Design Student at Plovdiv University**  
-👨‍💻 **Full Stack Python Developer in Training at SoftUni, Sofia**  
-🎨 **Certified UI/UX Designer**  
+👨‍💻 **Junior Python Developer in Training at SoftUni, Sofia**  
+🎨 **Certified Junior UI/UX Designer**  
 🌍 **Currently based in Dietwil, Switzerland**  
 
 ---
